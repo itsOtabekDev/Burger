@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar"
 import Rounded from "../components/Rounded"
 import Section from "../components/Section"
 import Wrapper from "../components/Wrapper"
-import Card from "../components/Card"
+import Card from "../components/card"
 
 const Home = () => {
     return (
