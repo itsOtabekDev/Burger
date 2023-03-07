@@ -12,9 +12,9 @@ import Wrapper from "../components/Wrapper"
 const Home = () => {
     return (
         <>
+            <Card />
             <Navbar />
             <Header />
-            <Card />
             <Wrapper />
             <Cards />
             <Section />
