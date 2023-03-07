@@ -1,5 +1,4 @@
 import Burger from "../components/Burger"
-import Card from "../components/card"
 import Cards from "../components/Cards"
 import Footer from "../components/Footer"
 import Header from "../components/Header"
@@ -7,7 +6,7 @@ import Navbar from "../components/Navbar"
 import Rounded from "../components/Rounded"
 import Section from "../components/Section"
 import Wrapper from "../components/Wrapper"
-
+import Card from "../components/Card"
 
 const Home = () => {
     return (
