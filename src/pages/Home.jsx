@@ -1,5 +1,5 @@
 import Burger from "../components/Burger"
-import Card from "../components/card"
+import Card from "../components/Card"
 import Cards from "../components/Cards"
 import Footer from "../components/Footer"
 import Header from "../components/Header"
