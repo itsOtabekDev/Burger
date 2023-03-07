@@ -11,9 +11,9 @@ import Card from "../components/card"
 const Home = () => {
     return (
         <>
-            <Card />
             <Navbar />
             <Header />
+            <Card />
             <Wrapper />
             <Cards />
             <Section />
