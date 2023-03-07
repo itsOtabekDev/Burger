@@ -1,0 +1,17 @@
+* {
+    user-select: none;
+}
+
+.swiper-pagination {
+    position: absolute;
+    margin-left: -40px;
+}
+
+body {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.nm {
+    text-decoration: underline;
+}
