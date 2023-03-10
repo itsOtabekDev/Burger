@@ -15,12 +15,12 @@ const Navbar = () => {
                 <a href=""><i class="fa-solid fa-magnifying-glass mt-1 ml-6"></i></a>
                 <ul>
                     <li>
-                        <Link to='/shop'><i class="fa-solid fa-cart-shopping mt-1 ml-[40px]"></i></Link>
+                        <Link to='/shop'><i class="fa-solid fa-cart-shopping mt-1 ml-[40px]"></i></Link>  
                     </li>
                 </ul>
                 <button className='bg-orange-400 text-white w-[100px] h-[40px] ml-[65px] rounded-[5px]'>Sign Up</button>
             </div >
-        </nav >
+        </nav > 
     )
 }
 
