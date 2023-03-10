@@ -1,4 +1,7 @@
 import React from 'react'
+import Card from '../components/card'
+import Cards from '../components/cards'
+import Footer from '../components/footer'
 import Navbar from '../components/Navbar'
 
 const Shop = () => {
@@ -6,9 +9,10 @@ const Shop = () => {
 
         <div>
             <Navbar />
-            <div className="">
-                
+            <div className='mt-36 h-screen'>
+                <Card />
             </div>
+            <Footer />
         </div>
     )
 }

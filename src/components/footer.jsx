@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='mt-24'>
             <div className="flex justify-around">
                 <div className=''>
-                    <img className='w-[100px] h-[30px]' src="./src/img/EFood.png" alt="" />
+                    <img className='w-[100px] h-[30px]' src="./src/assets/img/EFood.png" alt="" />
                     <ul className='mt-6'>
                         <div className="flex gap-3 items-center mt-1">
                             <CiLocationOn />
