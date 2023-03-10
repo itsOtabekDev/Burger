@@ -56,7 +56,7 @@ const Cards = () => {
                         <img src="./src/assets/./img/4.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
-                        <h1 className="ml-5">Blaze Pizza</h1> 
+                        <h1 className="ml-5">Blaze Pizza</h1>
                         <div className="flex justify-around items-center pt-1 pr-6">
                             <div className="flex items-center gap-1">
                                 <BiTimer className="text-slate-400" />
