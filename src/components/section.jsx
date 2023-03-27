@@ -25,7 +25,7 @@ const Section = () => {
                 </div>
             </div>
             <div className="">
-                <img src="./src/assets/img/Group 178tel.png" alt="" />
+                <img src="./src/img/Group 178tel.png" alt="" />
             </div>
         </div>
     )

@@ -27,7 +27,7 @@ const Card = () => {
                                 <h1 className="text-lg text-center ml-4">Burger</h1>
                             </div>
                             <div className="text-center rounded-xl border-2 mt-11 h-[288px]">
-                                <img className="ml-7" src="./src/assets/img/item_01-480x480 1.png" alt="" />
+                                <img className="ml-7" src="./src/img/item_01-480x480 1.png" alt="" />
                                 <a href=""><p>Cheeseburger With Salad</p></a>
                                 <a href=""><h3 className="mt-3">$18.00</h3></a>
                                 <button className="bg-orange-400 w-24 h-8 mt-4 rounded-sm text-white">Add to Cart</button>
@@ -41,7 +41,7 @@ const Card = () => {
                                 <h1 className="text-lg text-center ml-4">Pizza</h1>
                             </div>
                             <div className="text-center rounded-xl border-2 mt-11 h-[288px]">
-                                <img className="ml-7" src="./src/assets/img/item_01-480x480 1.png" alt="" />
+                                <img className="ml-7" src="./src/img/item_01-480x480 1.png" alt="" />
                                 <a href=""><p>Cheeseburger With Salad</p></a>
                                 <a href=""><h3 className="mt-3">$18.00</h3></a>
                                 <button className="bg-orange-400 w-24 h-8 mt-4 rounded-sm text-white">Add to Cart</button>
@@ -55,7 +55,7 @@ const Card = () => {
                                 <h1 className="text-lg text-center ml-4">sandwich</h1>
                             </div>
                             <div className="text-center rounded-xl border-2 mt-11 h-[288px]">
-                                <img className="ml-7" src="./src/assets/img/item_01-480x480 1.png" alt="" />
+                                <img className="ml-7" src="./src/img/item_01-480x480 1.png" alt="" />
                                 <a href=""><p>Cheeseburger With Salad</p></a>
                                 <a href=""><h3 className="mt-3">$18.00</h3></a>
                                 <button className="bg-orange-400 w-24 h-8 mt-4 rounded-sm text-white">Add to Cart</button>
@@ -69,7 +69,7 @@ const Card = () => {
                                 <h1 className="text-lg text-center ml-4">Set Menu</h1>
                             </div>
                             <div className="text-center rounded-xl border-2 mt-11 h-[288px]">
-                                <img className="ml-7" src="./src/assets/img/item_01-480x480 1.png" alt="" />
+                                <img className="ml-7" src="./src/img/item_01-480x480 1.png" alt="" />
                                 <a href=""><p>Cheeseburger With Salad</p></a>
                                 <a href=""><h3 className="mt-3">$18.00</h3></a>
                                 <button className="bg-orange-400 w-24 h-8 mt-4 rounded-sm text-white">Add to Cart</button>
@@ -83,7 +83,7 @@ const Card = () => {
                                 <h1 className="text-lg text-center ml-4">Burger</h1>
                             </div>
                             <div className="text-center rounded-xl border-2 mt-11 h-[288px]">
-                                <img className="ml-7" src="./src/assets/img/item_01-480x480 1.png" alt="" />
+                                <img className="ml-7" src="./src/img/item_01-480x480 1.png" alt="" />
                                 <a href=""><p>Cheeseburger With Salad</p></a>
                                 <a href=""><h3 className="mt-3">$18.00</h3></a>
                                 <button className="bg-orange-400 w-24 h-8 mt-4 rounded-sm text-white">Add to Cart</button>
@@ -97,7 +97,7 @@ const Card = () => {
                                 <h1 className="text-lg text-center ml-4">Burger</h1>
                             </div>
                             <div className="text-center rounded-xl border-2 mt-11 h-[288px]">
-                                <img className="ml-7" src="./src/assets/img/item_01-480x480 1.png" alt="" />
+                                <img className="ml-7" src="./src/img/item_01-480x480 1.png" alt="" />
                                 <a href=""><p>Cheeseburger With Salad</p></a>
                                 <a href=""><h3 className="mt-3">$18.00</h3></a>
                                 <button className="bg-orange-400 w-24 h-8 mt-4 rounded-sm text-white">Add to Cart</button>

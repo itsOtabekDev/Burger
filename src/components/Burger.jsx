@@ -6,7 +6,7 @@ const Burger = () => {
             <h1 className='text-3xl font-medium text-center'>What Our Client Are <span className="text-orange-500">Saying</span></h1>
             <div className="flex justify-around items-center mt-12 mt-12">
                 <div className="">
-                    <img src="./src/assets/img/Rectangle 8.png" alt="" />
+                    <img src="./src/img/Rectangle 8.png" alt="" />
                 </div>
                 <div className="">
                     <div className="">

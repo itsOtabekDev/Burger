@@ -4,7 +4,7 @@ const Wrapper = () => {
     return (
         <div className="wrapper flex justify-evenly items-center h-screen">
             <div className="">
-                <img src="./src/assets/img/food delivery 4.png" alt="" />
+                <img src="./src/img/food delivery 4.png" alt="" />
             </div>
             <div className="">
                 <h1 className="text-3xl"><span className="text-red-500">Stay</span> at home, we will <br />

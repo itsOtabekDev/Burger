@@ -8,7 +8,7 @@ const Cards = () => {
             <div className="flex flex-wrap items-center w-3=4/4 ml-20   mt-12">
                 <div className="ml-12 mt-12">
                     <div className="">
-                        <img src="./src/assets/./img/1.png" alt="" />
+                        <img src="./src/./img/1.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
                         <h1 className="ml-5">Blaze Pizza</h1>
@@ -23,7 +23,7 @@ const Cards = () => {
                 </div>
                 <div className="ml-12 mt-12">
                     <div className="">
-                        <img src="./src/assets/./img/2.png" alt="" />
+                        <img src="./src/./img/2.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
                         <h1 className="ml-5">Blaze Pizza</h1>
@@ -38,7 +38,7 @@ const Cards = () => {
                 </div>
                 <div className="ml-12 mt-12">
                     <div className="">
-                        <img src="./src/assets/./img/3.png" alt="" />
+                        <img src="./src/./img/3.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
                         <h1 className="ml-5">Blaze Pizza</h1>
@@ -53,7 +53,7 @@ const Cards = () => {
                 </div>
                 <div className="ml-12 mt-12">
                     <div className="">
-                        <img src="./src/assets/./img/4.png" alt="" />
+                        <img src="./src/./img/4.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
                         <h1 className="ml-5">Blaze Pizza</h1>
@@ -68,7 +68,7 @@ const Cards = () => {
                 </div>
                 <div className="ml-12 mt-12">
                     <div className="">
-                        <img src="./src/assets/./img/5.png" alt="" />
+                        <img src="./src/./img/5.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
                         <h1 className="ml-5">Blaze Pizza</h1>
@@ -83,7 +83,7 @@ const Cards = () => {
                 </div>
                 <div className="ml-12 mt-12">
                     <div className="">
-                        <img src="./src/assets/./img/6.png" alt="" />
+                        <img src="./src/./img/6.png" alt="" />
                     </div>
                     <div className="w-[361px] h-20 bg-zinc-50 border-4 border-black-50 rounded-br-[53px] flex-row ">
                         <h1 className="ml-5">Blaze Pizza</h1>

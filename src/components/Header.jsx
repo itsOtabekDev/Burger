@@ -14,7 +14,7 @@ const Header = () => {
                 </div>
             </div>
             <div className="">
-                <img className='w-[509px] hover:scale-105 duration-150' src="./src/assets/img/Scooter Guy.png" alt="" />
+                <img className='w-[509px] hover:scale-105 duration-150' src="./src/img/Scooter Guy.png" alt="" />
             </div>
         </header>
     )
