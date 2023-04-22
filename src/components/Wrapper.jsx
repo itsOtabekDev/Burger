@@ -8,7 +8,7 @@ const Wrapper = () => {
             </div>
             <div className="">
                 <h1 className="text-3xl"><span className="text-red-500">Stay</span> at home, we will <br />
-                    Provide <span className="text-red-500">good food</span></h1>
+                    Provide <span className="3" text-red-500>good food</span></h1>
                 <p className="font-serif mt-4">We provide tasty food and superfast delivery at <br />
                     your home.  Let’s use our services right now and <br />
                     get discounts of up to 50%.</p>
