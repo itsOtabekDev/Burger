@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Navbar = () => {
     return (
         <nav className='flex justify-around pt-5'>
-            <a href="/"><img className='w-[100px] h-[30px]' src="./src/img/EFood.png" alt=""></img></a>
+            <a href="/"><img className='w-[100px] h-[30px]' src="./dist/assets/img/EFood.png" alt=""></img></a>
             <div className="flex justify-around w-1/1 items-center">
                 <ul className='flex justify-between w-64'>
                     <a href="/"><li className='hover:text-red-600 duration-150 hover:scale-105' >Home</li></a>
